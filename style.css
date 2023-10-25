@@ -1,0 +1,28 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: verdana;
+}
+
+.row {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.digit {
+	font-size: 135px;
+}
+
+.txt {
+	font-size: 30px;
+}
+
+.btn {
+    margin-left: 20px;
+    width: 7em;
+}
